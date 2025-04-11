@@ -1,4 +1,5 @@
-kind: wasmer.io/App.v0
-name: wasmer-homepage
+name: azpeters-wasmer-homepage
+app_id: da_nYYILtXULEQn
 owner: azpeters
-package: .
+package: '.'
+kind: wasmer.io/App.v0
